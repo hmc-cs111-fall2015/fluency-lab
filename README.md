@@ -19,14 +19,14 @@ about Python's functional programming capabilities, including:
    + [`map`, `filter`, `reduce`](http://www.python-course.eu/lambda.php)
    + function definitions and calls
 
-In contrast, we will *use* those features to design an easy-to-use library. 
+In contrast, we will *use* those features to design a nice library. 
 
 ## Getting started
    1. Fork this repository, which contains all the Python and sound files you'll
    need.
    1. Submit a pull request right away. (The pull request will be updated as
    you work on the lab.)
-   1. Head over to the CS 5 writeup. Take a brief look at the top of the file,
+   1. Head over to the [CS 5 writeup][CS5Lab]. Take a brief look at the top of the file,
    to see a description of the files. Then, skim / skip down to the section
    titled "Sound coding...". Start doing the lab from there. (The earlier part
    of the lab, which creates some helper function has already been completed in
