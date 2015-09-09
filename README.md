@@ -46,6 +46,14 @@ In particular, focus on the following:
    In particular, reach first for the language features mentioned at the top of
    this lab. If those tools don't seem up for the job, then you can reach for
    other tools (e.g., `for` loops, classes, etc.).
+
+   + As an initial goal, it should be easy for users of your library to:
+      1. Modify an existing sound file by reversing it and making it quieter.
+      1. Play the resulting sound.
+      1. Save that sound to a file.
+
+   + After that, it should be easy to similarly combine any number of effects
+   and either play or save the resulting sound.
    
    + As a stretch goal, see if you can make it easy for a library user to
    compose a song of arbitrary sounds. This 
